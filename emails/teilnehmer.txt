@@ -1,0 +1,33 @@
+Liebe Teilnehmerin, lieber Teilnehmer,
+
+Wir freuen uns über Deine Anmeldung zum ersten CoderDojo Saar. Am Samstag, den <Datum>, kannst Du von <Uhrzeit> zusammen mit den Mentoren im Coworking Space Ligatura programmieren lernen. 
+
+Der Nachmittag zum Coden wird so ablaufen:
+   1. Ankunft und Begrüßung. Jeder erhält ein Namensschild, damit man sich ansprechen kann.
+   2. Jeder Teilnehmer sucht einen Platz für seinen Laptop. In der Ligatura sind ausreichend Tische vorhanden.
+   3. Kurze Vorstellung aller Teilnehmer und Mentoren in der Gruppe.
+   4. Jeder Teilnehmer wählt selbst eine Aufgabe, die er mit Hilfe der Mentoren bearbeiten möchte. Es können eigene Ideen mitgebracht werden oder Du suchst etwas aus unserem Material aus.
+   5. Gegen 15:30 Uhr werden wir eine kurze Pause machen und uns als Gruppe zusammen setzen. Zeit, um etwas zu essen und zu trinken. Getränke können in der Ligatura gekauft werden, ein kleiner Imbiss kann mitgebracht werden.
+   6. Nach der Pause ist wieder Zeit zum Programmieren.
+   7. Gegen 16:45 Uhr treffen wir uns zur Abschlussrunde. Was hast Du gemacht? Hat es Dir gefallen? Was können wir beim nächsten Mal besser/anders machen?
+   8. Um 17 Uhr ist das erste Treffen zu Ende.
+
+Anfahrt zur Ligatura
+Der Coworking Space Ligatura (http://www.ligatura.co/) befindet sich im Quartier Eurobahnhof hinter dem Hauptbahnhof. 
+
+Link zu GoogleMaps: https://www.google.com/maps/place/Ligatura/@49.243003,6.989787,16z/data=!4m5!3m4!1s0x0:0xf88e8bcb87e23bdc!8m2!3d49.2430028!4d6.9897871?hl=de-DE 
+
+Parken kann man sehr gut im Parkhaus neben dem Bahnhof.
+
+Noch ein paar Hinweise:
+   * Es kann jeder ein Laptop mitbringen. Es ist jedoch auch möglich in 2er-Teams zu arbeiten.
+   * Mit etwas Vorlaufzeit können wir auch Leihlaptops stellen.
+   * Falls Du am Samstag nicht kommen kannst, gib uns bitte Bescheid, sodass wir  — das Orgateam — jederzeit den genauen Überblick über alle Teilnehmer behalten. Danke!
+
+Das CoderDojo Saar ist für die Teilnehmer kostenlos. Das Orgateam und alle Mentoren arbeiten ehrenamtlich. Für die Miete der Räume konnten wir einen Sponsor gewinnen. Vielen Dank an <Sponsor> für die Unterstützung des CoderDojos!  
+
+Wir freuen uns auf das CoderDojo Saar am Samstag mit Dir!
+
+Viele Grüße,
+
+Andi und Kerstin vom CoderDojo Saar 

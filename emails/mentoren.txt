@@ -1,0 +1,39 @@
+Lieber Mentor!
+
+Vielen Dank, dass Du am Samstag, den <Datum>, beim <Nummer>. CoderDojo Saar helfen magst. Das CoderDojo beginnt um <Uhrzeit> im Coworking Space Ligatura. Du kannst gerne etwas früher kommen und Dich mit den Räumen vertraut machen.
+
+Der Nachmittag zum Coden wird so ablaufen:
+   1. Ankunft und Begrüßung. Jeder erhält ein Namensschild, damit man sich ansprechen kann.
+   2. Jeder Teilnehmer sucht einen Platz für seinen Laptop. In der Ligatura sind ausreichend Tische vorhanden.
+   3. Kurze Vorstellung aller Teilnehmer und Mentoren in der Gruppe.
+   4. Jeder Teilnehmer wählt selbst eine Aufgabe, die er mit Hilfe der Mentoren bearbeiten möchte. Es können eigene Ideen mitgebracht werden oder Du suchst etwas aus unserem Material aus.
+   5. Gegen 15:30 Uhr werden wir eine kurze Pause machen und uns als Gruppe zusammen setzen. Zeit, um etwas zu essen und zu trinken. Getränke können in der Ligatura gekauft werden, ein kleiner Imbiss kann mitgebracht werden.
+   6. Nach der Pause ist wieder Zeit zum Programmieren.
+   7. Gegen 16:45 Uhr treffen wir uns zur Abschlussrunde. Was hast Du gemacht? Hat es Dir gefallen? Was können wir beim nächsten Mal besser/anders machen?
+   8. Um 17 Uhr ist das erste Treffen zu Ende.
+
+Anfahrt zur Ligatura
+Der Coworking Space Ligatura  (http://www.ligatura.co/) befindet sich im Quartier Eurobahnhof hinter dem Hauptbahnhof. 
+
+Link zu GoogleMaps: https://www.google.com/maps/place/Ligatura/@49.243003,6.989787,16z/data=!4m5!3m4!1s0x0:0xf88e8bcb87e23bdc!8m2!3d49.2430028!4d6.9897871?hl=de-DE 
+
+Parken kann man sehr gut im Parkhaus neben dem Bahnhof.
+
+Noch ein paar Hinweise:
+   * Die Teilnehmer wählen ihre Arbeit selber. Dafür stellen wir Material zur Verfügung, sowohl ausgedruckt und laminiert - so genannte Sushi Cards (http://coderdojo-saar.de/material/) - als auch Online-Quellen (http://coderdojo-saar.de/links//).
+   * Die Sushi Cards sind auf Englisch. Hier könnte der Mentor bei der Übersetzung helfen müssen. Es ist aber nie viel Text auf den Karten. 
+   * Als Themen kommen wahrscheinlich Scratch, HTML, CSS, Javascript in Frage. 
+   * Logins zum CoderDojo Saar auf Code.org findet ihr im Anhang.[p]
+   * Achim konnte 3 MicroBits besorgen, die Chinthu vorstellen wird. Vielen  Dank an die beiden!
+   * Auch dabei sind: 2 Arduinos, 1 RasberryPi, 1 MakeyMakey und ein paar Programmier-Bücher für Kinder 
+   * Wir haben auch Material für weitere Themen, z.B. App-Entwicklung oder Swift-Programmierung. Das kommt eher nicht am Samstag zum Einsatz, sondern erst auf Wunsch bei einem späteren Termin.
+   * Es wird eine Feedback-Runde geben, damit wir das nächste CoderDojo Saar noch besser machen können.
+   * Das CoderDojo Saar soll monatlich stattfinden. Der nächste Termin soll der 26.11.2016 werden.
+
+Das CoderDojo Saar ist für die Teilnehmer kostenlos. Das Orgateam und alle Mentoren arbeiten ehrenamtlich. Für die Miete der Räume konnten wir einen Sponsor gewinnen. Vielen Dank an <Sponsor> für die Unterstützung des CoderDojos!
+
+Wir freuen uns auf das CoderDojo Saar am Samstag mit Dir!
+
+Viele Grüße,
+
+Andi und Kerstin vom CoderDojo Saar 
